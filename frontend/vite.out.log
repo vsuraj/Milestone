@@ -1,0 +1,29 @@
+
+> milestone-frontend@1.0.0 dev
+> vite --host 127.0.0.1
+
+
+  VITE v6.4.3  ready in 2668 ms
+
+  ➜  Local:   http://127.0.0.1:5173/
+9:49:31 am [vite] (client) hmr update /src/components/Navbar.tsx, /src/index.css
+9:49:33 am [vite] (client) hmr update /src/components/Navbar.tsx, /src/index.css
+9:49:35 am [vite] (client) hmr update /src/components/Navbar.tsx, /src/index.css
+9:49:38 am [vite] (client) hmr update /src/components/Navbar.tsx, /src/index.css
+9:49:49 am [vite] (client) hmr update /src/components/Navbar.tsx, /src/index.css
+9:49:56 am [vite] (client) hmr update /src/components/Navbar.tsx, /src/index.css
+9:49:58 am [vite] (client) hmr update /src/App.tsx, /src/index.css
+9:49:58 am [vite] (client) hmr update /src/components/Navbar.tsx, /src/index.css
+9:50:01 am [vite] (client) hmr update /src/components/Navbar.tsx, /src/index.css
+9:50:39 am [vite] (client) hmr update /src/components/Navbar.tsx, /src/index.css
+9:50:58 am [vite] (client) hmr update /src/components/Navbar.tsx, /src/index.css
+9:51:00 am [vite] (client) hmr update /src/components/Navbar.tsx, /src/index.css
+9:51:04 am [vite] (client) hmr update /src/components/Navbar.tsx, /src/index.css
+9:51:12 am [vite] (client) hmr update /src/components/Navbar.tsx, /src/index.css
+9:51:15 am [vite] (client) page reload dist/index.html
+9:51:35 am [vite] (client) page reload dist/index.html
+9:51:48 am [vite] (client) page reload dist/index.html
+9:52:02 am [vite] (client) page reload dist/index.html
+9:52:02 am [vite] (client) page reload dist/index.html
+10:49:15 am [vite] (client) hmr update /src/App.tsx, /src/index.css
+10:49:32 am [vite] (client) hmr update /src/index.css, /src/App.tsx, /src/context/AuthContext.tsx, /src/components/PlannerView.tsx, /src/components/GoalsView.tsx
